@@ -1,0 +1,22 @@
+/* google Fonts link */
+/* playfair display SC */
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC&display=swap');
+
+header{
+    background: url(/Coming_Soon/img/hero-img.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+}
+header ul li{
+    font-size: 2rem;
+    color: #ffffff;
+    list-style-type:  none;
+}
+.comingSoon{
+   margin-top: 23rem;
+   width: 600;
+   font-size: 5rem;
+   font-family: 'Playfair Display SC', serif;   
+}
