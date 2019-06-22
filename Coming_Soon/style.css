@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
 header{
-    background: url(/Coming_Soon/img/hero-img.jpg);
+    background:linear-gradient(rgb(0,0,0,0.55),rgb(0,0,0,0.55)), url(/Coming_Soon/img/hero-img.jpg);
     height: 100vh;
     background-size: cover;
     background-position: cover;
